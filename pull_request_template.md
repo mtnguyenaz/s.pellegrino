@@ -1,4 +1,14 @@
-#Pull Request Template
+# Pull Request Template
+This is a template
 
-##Description
-Some description goes here
+# Information to be filled out
+Ensure that the follwoing are filled out
+
+## Name
+Some text goes here
+
+## Reason
+Some text goes here
+
+## Priority
+Some text goes here
